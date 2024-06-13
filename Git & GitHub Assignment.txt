@@ -1,0 +1,15 @@
+Answer 1 : Git is a distributed version control system used for tracking changes in source code during software development. It allows multiple developers to collaborate, manage code versions, and revert to previous states if needed.
+
+Answer 2 : A version control system (VCS) is a tool that helps track and manage changes to files, especially code, over time. It allows multiple people to work on the same project, keeps a history of changes, and makes it easy to revert to earlier versions if needed.
+
+Answer 3 : GitHub is a web-based platform that uses Git for version control and provides tools for collaboration, code sharing, and project management. It allows developers to host and review code, track issues, and work together on software projects.
+
+Answer 4 : Popular Git hosting services include GitHub, GitLab, Bitbucket, SourceForge, and AWS CodeCommit.
+
+Answer 5 : Types of version control systems include Local, Centralized (CVCS), and Distributed (DVCS).
+
+Answer 6 : Using Git offers distributed version control, efficient branching and merging, non-linear development support, robust performance, and detailed project history tracking.
+
+Answer 7 : A Git repository is a storage location where Git stores all the files, history, and metadata related to a project. It allows multiple contributors to collaborate, track changes, and manage versions of the project's codebase.
+
+Answer 8 : To initialize a repository in Git, you use the 'git init' command in your terminal or command prompt within the directory where you want to create the repository. This command sets up all the necessary files and directories to start tracking changes and managing versions using Git.
